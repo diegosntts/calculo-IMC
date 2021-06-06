@@ -1,3 +1,3 @@
 # calculo-IMC
 
-Calculo IMC em Javascript.
+Calculo IMC em Javascript
