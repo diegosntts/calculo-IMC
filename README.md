@@ -1,5 +1,5 @@
 # calculo-IMC
 
-Tela inicial 
+Adicionar Tela inicial 
 
 Calculo IMC em Javascript
